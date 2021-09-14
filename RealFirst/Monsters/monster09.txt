@@ -1,0 +1,5 @@
+slime
+Images/monster09.png
+(2,1)(2,2)(1,2)(0,2)(0,1)
+a
+5
