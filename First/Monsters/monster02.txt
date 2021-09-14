@@ -1,5 +1,0 @@
-red
-Images/monster02.png
-(2,1)(1,1)(0,1)
-a
-5

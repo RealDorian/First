@@ -1,2 +1,0 @@
-boss
-Images/monster10.png
